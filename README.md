@@ -1,7 +1,7 @@
-📊 Finovate Finance Tracker App
+# 📊 Finovate Finance Tracker App
 A modern finance tracking application designed to help users manage expenses, track income, and visualize financial data with ease. Built with a clean UI and robust backend, Finovate empowers individuals to take control of their personal finances.
 
-🚀 Features
+# 🚀 Features
 User Authentication – Secure login and signup functionality
 Expense & Income Tracking – Add, edit, and delete transactions
 Categorization – Organize transactions by category (Food, Travel, Bills, etc.)
@@ -9,7 +9,7 @@ Dashboard & Analytics – Visualize spending patterns with charts and summaries
 Responsive Design – Works seamlessly across desktop and mobile devices
 Data Persistence – Transactions stored securely in the database
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 Layer	Technology Used
 Frontend	React.js / Next.js (depending on your setup)
 Backend	Node.js + Express
@@ -18,7 +18,7 @@ Authentication	JWT / Firebase Auth
 Styling	Tailwind CSS / Material UI
 Version Control	Git & GitHub
 
-📂 Project Structure
+# 📂 Project Structure
 Code
 Finovate-finance-tracker-app/
 │── frontend/         # React/Next.js UI
@@ -28,7 +28,7 @@ Finovate-finance-tracker-app/
 │── utils/            # Helper functions
 │── README.md         # Project documentation
 
-⚙️ Installation & Setup
+# ⚙️ Installation & Setup
 Clone the repository
 
 bash
@@ -54,7 +54,7 @@ npm start
 
 **note only write this command if you can present your first folder without enter backend or frontent folder or files.** 
 
-📸 Screenshots
+# 📸 Screenshots
 
 # login Page 
 <img width="1910" height="922" alt="Screenshot 2025-11-14 225257" src="https://github.com/user-attachments/assets/161d98e1-b570-4747-8c9d-10b6db97ca62" />
@@ -81,8 +81,8 @@ npm start
 <img width="748" height="483" alt="Screenshot 2025-11-14 225706" src="https://github.com/user-attachments/assets/1641be85-9b07-4671-95f3-7f21af0e666b" />
 
 
-📜 License
+# 📜 License 
 This project is licensed under the MIT License – feel free to use and modify it.
 
-👨‍💻 Author
+# 👨‍💻 Author
 Developed by Abhishek Kumar
