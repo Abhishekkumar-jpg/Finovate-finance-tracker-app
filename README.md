@@ -2,12 +2,12 @@
 A modern finance tracking application designed to help users manage expenses, track income, and visualize financial data with ease. Built with a clean UI and robust backend, Finovate empowers individuals to take control of their personal finances.
 
 # 🚀 Features
-User Authentication – Secure login and signup functionality
-Expense & Income Tracking – Add, edit, and delete transactions
-Categorization – Organize transactions by category (Food, Travel, Bills, etc.)
-Dashboard & Analytics – Visualize spending patterns with charts and summaries
-Responsive Design – Works seamlessly across desktop and mobile devices
-Data Persistence – Transactions stored securely in the database
+User Authentication – Secure login and signup functionality.
+Expense & Income Tracking – Add, edit, and delete transactions.
+Categorization – Organize transactions by category (Food, Travel, Bills, etc.).
+Dashboard & Analytics – Visualize spending patterns with charts and summaries.
+Responsive Design – Works seamlessly across desktop and mobile devices.
+Data Persistence – Transactions stored securely in the database.
 
 # 🛠️ Tech Stack
 Layer	Technology Used
